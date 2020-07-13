@@ -1,4 +1,4 @@
-# VacuumWorld
+# Simple Reflex Agent
 ### This project contains an implementation of a simple reflex agent
 #### Simple Reflex agent
 * Acts only on the basis of the current percept, ignoring the rest of the percept history
